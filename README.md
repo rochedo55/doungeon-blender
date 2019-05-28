@@ -1,5 +1,5 @@
 # doungeon-blender
-##Projeto feito por Gabriel Rocha de Souza em 06/05/2019 para a disciplina de ANIMAÇÃO DE MODELOS PARA JOGOS -DAT0263
+## Projeto feito por Gabriel Rocha de Souza em 06/05/2019 para a disciplina de ANIMAÇÃO DE MODELOS PARA JOGOS -DAT0263
 da UFRN no curso de tecnologia da informação.
 *Para executar o arquivo se faz necessário da aplicação blender intalada na máquina.
 
